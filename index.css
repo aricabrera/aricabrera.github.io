@@ -66,9 +66,11 @@ footer p {
 
 /* Estilos para la Imagen */
 img {
-    max-width: 30vw;
+    max-width: 20vw;
     height: auto;
     display: block;
     margin: 20px auto;
     border-radius: 8px;
+    float: left; /* Alinea la imagen a la izquierda */
+    margin-right: 20px; /* Añade un margen a la derecha para separar el contenido */
 }
