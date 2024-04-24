@@ -58,7 +58,8 @@ main {
     padding: 20px;
     text-align: center;
     position: relative;
-    top: 60px; /* Ajuste dependiendo del tamaño de tu header */
+    top: 75px; /* Ajuste dependiendo del tamaño de tu header */
+    color: white;
 }
 
 footer {
