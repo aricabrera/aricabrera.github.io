@@ -24,7 +24,8 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2em;
+    font-size: 4em;
+    font-weight: bold; 
 }
 
 header nav ul {
